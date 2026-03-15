@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "versionSignature": "E82447EE12BBE10CE00ADD783E136CB7204B51037F9064BFD33E7A52E90C2455",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.5/weblauncher.exe",
-  "changelogs": "Added fflag editor, along with ones available. Automatically backs up any fflags you already have if you switch into a new rdd version, check settings for new additions"
+  "version": "2.0.6",
+  "versionSignature": "F8A153BAA71E529BB69CA1540C1C6D52EF0ED1776493C4101098C5771A75B333",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.6/weblauncher.exe",
+  "changelogs": "Added a basic theme editor, and an import fflags button, updater error detection if it crashes during download"
 }
