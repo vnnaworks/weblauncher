@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.3",
   "versionSignature": "95BADF8283587FA8D0DB0BE6B86F062DA5001B62A3B4CBCCED8A9F8345F77BA5",
   "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.4/weblauncher.exe",
   "changelogs": "Fully fixes the updater, check settings for new additions (fflags soon...)"
