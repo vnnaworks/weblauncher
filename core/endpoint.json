@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "versionSignature": "A348DF0E6081967CBC2F199C401852EC7F65A2CDEF5940E8204129AED59AE2B4",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.0/weblauncher.exe",
-  "changelogs": "Base version"
+  "version": "2.0.1",
+  "versionSignature": "60FB520DD72CBA33D0B0E5AA5FB1BB02C13DF265167237D711128F964181C8F1",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.1/weblauncher.exe",
+  "changelogs": "Made version hash be parsed to clean up unneeded characters, Added Activity Watcher similar to Bloxstrap (with semi multi-instance support maybe), Added Discord RPC"
 }
