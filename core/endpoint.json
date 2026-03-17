@@ -1,6 +1,6 @@
 {
-  "version": "2.0.7",
-  "versionSignature": "1AF9462207B6D4D02EA84D932E15B811A6690C0AABF294AF09DB5C1C6B488F05",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.7/weblauncher.exe",
-  "changelogs": "Updated to 2.0.7\n\nAdded:\n\nLauncher settings\n- Roblox Bootstrapper: (Similar to Fishstrap/Bloxstrap) automatically downloads the version you select (Latest/Downgrade)\n- Exploit Sync: Automatically fetches the version your exploit supports each launch and auto upgrades or downgrades (Doesn't support Volt)\n- Use Roblox CDN option\n\nAdvanced settings\n- Open Roblox installation folder\n- Versions folder selected for bootstrapper"
+  "version": "2.0.8",
+  "versionSignature": "AA857ECFD86CDCB6D9F830892D251B808FB9364BCA8A8C1ECF5905A64FBB71F2",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.8/weblauncher.exe",
+  "changelogs": "Updated to 2.0.8\n\nAdded:\n\nWindow settings\n- You can now resize Weblauncher's window\n\nTheme settings\n- UI Scale: Adjust the size of UI elements (make them bigger or smaller)"
 }
