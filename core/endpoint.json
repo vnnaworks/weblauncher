@@ -1,6 +1,6 @@
 {
-  "version": "2.0.6",
-  "versionSignature": "F8A153BAA71E529BB69CA1540C1C6D52EF0ED1776493C4101098C5771A75B333",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.6/weblauncher.exe",
-  "changelogs": "Added a basic theme editor, and an import fflags button, updater error detection if it crashes during download"
+  "version": "2.0.7",
+  "versionSignature": "1AF9462207B6D4D02EA84D932E15B811A6690C0AABF294AF09DB5C1C6B488F05",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.7/weblauncher.exe",
+  "changelogs": "Updated to 2.0.7\n\nAdded:\n\nLauncher settings\n- Roblox Bootstrapper: (Similar to Fishstrap/Bloxstrap) automatically downloads the version you select (Latest/Downgrade)\n- Exploit Sync: Automatically fetches the version your exploit supports each launch and auto upgrades or downgrades (Doesn't support Volt)\n- Use Roblox CDN option\n\nAdvanced settings\n- Open Roblox installation folder\n- Versions folder selected for bootstrapper"
 }
