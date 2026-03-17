@@ -1,6 +1,6 @@
 {
-  "version": "2.0.9",
-  "versionSignature": "5ADC2BD01505798E202E5840876A5994F7C3BEBF93511BC9839168520965771E",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.9/weblauncher.exe",
+  "version": "2.1.0",
+  "versionSignature": "3BEF2A7775D4FEC839F006482BE383F025C2C4DF4CBC8A83A6252E2A4F4ADBEC",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.0/weblauncher.exe",
   "changelogs": "Updated to 2.0.9\n\nAdded:\n\n- Some multi-instance fixes (If it still doesn't work for some of you, send a video in media showing how you're launching)\n- Added check for running Roblox processes in the background during updates"
 }
