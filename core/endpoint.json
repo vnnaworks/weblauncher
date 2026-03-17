@@ -1,6 +1,6 @@
 {
-  "version": "2.0.8",
-  "versionSignature": "AA857ECFD86CDCB6D9F830892D251B808FB9364BCA8A8C1ECF5905A64FBB71F2",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.8/weblauncher.exe",
-  "changelogs": "Updated to 2.0.8\n\nAdded:\n\nWindow settings\n- You can now resize Weblauncher's window\n\nTheme settings\n- UI Scale: Adjust the size of UI elements (make them bigger or smaller)"
+  "version": "2.0.9",
+  "versionSignature": "5ADC2BD01505798E202E5840876A5994F7C3BEBF93511BC9839168520965771E",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.0.9/weblauncher.exe",
+  "changelogs": "Updated to 2.0.9\n\nAdded:\n\n- Some multi-instance fixes (If it still doesn't work for some of you, send a video in media showing how you're launching)\n- Added check for running Roblox processes in the background during updates"
 }
