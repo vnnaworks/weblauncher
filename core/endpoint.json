@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "versionSignature": "3BEF2A7775D4FEC839F006482BE383F025C2C4DF4CBC8A83A6252E2A4F4ADBEC",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.0/weblauncher.exe",
-  "changelogs": "Updated to 2.0.9\n\nAdded:\n\n- Some multi-instance fixes (If it still doesn't work for some of you, send a video in media showing how you're launching)\n- Added check for running Roblox processes in the background during updates"
+  "version": "2.1.1",
+  "versionSignature": "CDF5383ED3BBD294D72F4763ADA6C4AA7929210160E0191A14E0FCF7D3DFC75A",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.1/weblauncher.exe",
+  "changelogs": "Updated to 2.1.1\n\nAdded:\n\nMulti-Instance\n- Rewrote mutex lock to use a background thread\n- Fixed a crash for users whose systems returned ERROR_ACCESS_DENIED when getting mutex\n- The launcher no longer minimizes to tray after launch unless multi-instance or activity watcher is enabled\n\nBootstrapper\n- Fixed a bug where switching exploit sync to \"None\" kept a stale Roblox version causing updates to break\n- Version displayed is accurate for custom dirs now"
 }
