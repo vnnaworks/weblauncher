@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "versionSignature": "CDF5383ED3BBD294D72F4763ADA6C4AA7929210160E0191A14E0FCF7D3DFC75A",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.1/weblauncher.exe",
-  "changelogs": "Updated to 2.1.1\n\nAdded:\n\nMulti-Instance\n- Rewrote mutex lock to use a background thread\n- Fixed a crash for users whose systems returned ERROR_ACCESS_DENIED when getting mutex\n- The launcher no longer minimizes to tray after launch unless multi-instance or activity watcher is enabled\n\nBootstrapper\n- Fixed a bug where switching exploit sync to \"None\" kept a stale Roblox version causing updates to break\n- Version displayed is accurate for custom dirs now"
+  "version": "2.1.2",
+  "versionSignature": "DA70C887BA4F89F734A341D70AF1B2BC0A91ABA911FA057793D80986652A0B5A",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.2/weblauncher.exe",
+  "changelogs": "Updated to 2.1.2\n\n Roblox Bootstrapper improvements"
 }
