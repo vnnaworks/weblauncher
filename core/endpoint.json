@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "versionSignature": "DA70C887BA4F89F734A341D70AF1B2BC0A91ABA911FA057793D80986652A0B5A",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.2/weblauncher.exe",
-  "changelogs": "Updated to 2.1.2\n\n Roblox Bootstrapper improvements"
+  "version": "2.1.3",
+  "versionSignature": "942305E0C41C3846E59F15A75C004D9DCFDAC87615A5CA7AC18944FBDFDF2913",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.3/weblauncher.exe",
+  "changelogs": "Updated to 2.1.3\n\nRoblox Bootstrapper\n- Added support for `roblox://` protocol\n- In the Protocol tab, re-register protocols if you installed a version below 2.1.3 before\n- Fixed version detection for RblxSwap\n- Weblauncher will now automatically redownload deployments if they were deleted\n\nStudio Bootstrapper (NEW)\n- Added support for Roblox Studio (can be enabled after enabling Roblox Bootstrapper)\n- Added support for `roblox-studio://`, `roblox-studio-auth://`, and `.rbxl / .rbxlx` files\n- Added a Launch Studio button in the app when enabled\n\nAdvanced\n- Added toggles to create Launch Roblox and Launch Studio desktop shortcuts\n\nFind bugs? Report them in #media\nValid bug reports will be rewarded"
 }
