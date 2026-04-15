@@ -1,6 +1,6 @@
 {
-  "version": "2.1.4",
-  "versionSignature": "73E5955E7550938A5692F7124FDAB53465B851A6211C7B9C31B8D4713B8FE6F0",
-  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.4/weblauncher.exe",
-  "changelogs": "Updated to 2.1.4\nFixed Multi instance lock failure"
+  "version": "2.1.5",
+  "versionSignature": "5D756C3D6EF2776B574A69C5096B065531BE128B78F579017E08CA7C60E7D181",
+  "rawDownloadUrl": "https://github.com/vnnaworks/weblauncher/releases/download/2.1.5/weblauncher.exe",
+  "changelogs": "Updated to 2.1.5\n\n - Added find close server\n - Added join on inactivity kick\n - Added fallback domains if weao.gg cannot be fetched"
 }
